@@ -1,0 +1,6 @@
+{
+  "name": "Physicochemical Deviation and OOS Investigation Assistant",
+  "description": "FDA/cGMP 가이드라인을 준수하는 이화학 일탈 및 OOS 단계별 조사 및 최종 보고서 생성 보조기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
